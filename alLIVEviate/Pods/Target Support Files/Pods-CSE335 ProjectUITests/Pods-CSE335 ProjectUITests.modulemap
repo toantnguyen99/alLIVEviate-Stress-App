@@ -1,0 +1,6 @@
+framework module Pods_CSE335_ProjectUITests {
+  umbrella header "Pods-CSE335 ProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
